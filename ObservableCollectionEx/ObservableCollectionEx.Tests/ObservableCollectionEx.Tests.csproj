@@ -56,9 +56,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ObservableCollectionEx\ObservableCollectionEx.csproj">
-      <Project>{4e44df80-4ce1-4686-a925-e6587c98825d}</Project>
-      <Name>ObservableCollectionEx</Name>
+    <ProjectReference Include="..\ObservableCollectionEx.net40\ObservableCollectionEx.net40.csproj">
+      <Project>{87711fa7-300a-457e-a1ef-cd78331a9752}</Project>
+      <Name>ObservableCollectionEx.net40</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
