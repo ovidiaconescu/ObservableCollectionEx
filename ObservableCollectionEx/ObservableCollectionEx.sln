@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObservableCollectionEx", "ObservableCollectionEx\ObservableCollectionEx.csproj", "{4E44DF80-4CE1-4686-A925-E6587C98825D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObservableCollectionEx.Tests", "ObservableCollectionEx.Tests\ObservableCollectionEx.Tests.csproj", "{D324000B-77E0-4406-9F6C-BBBB83773150}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{4E44DF80-4CE1-4686-A925-E6587C98825D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E44DF80-4CE1-4686-A925-E6587C98825D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E44DF80-4CE1-4686-A925-E6587C98825D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D324000B-77E0-4406-9F6C-BBBB83773150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D324000B-77E0-4406-9F6C-BBBB83773150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D324000B-77E0-4406-9F6C-BBBB83773150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D324000B-77E0-4406-9F6C-BBBB83773150}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
