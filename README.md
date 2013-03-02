@@ -8,3 +8,6 @@ The Event Arguments also include the actual object that triggered the event.
 
 http://ovidiudiaconescu.com/blog
 Twitter: @ovidiaconescu
+
+Credits: based on the work of soren.enemaerke from stackoverflow
+http://stackoverflow.com/questions/269073/observablecollection-that-also-monitors-changes-on-the-elements-in-collection
