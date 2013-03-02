@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObservableCollectionEx", "ObservableCollectionEx\ObservableCollectionEx.csproj", "{4E44DF80-4CE1-4686-A925-E6587C98825D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E44DF80-4CE1-4686-A925-E6587C98825D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E44DF80-4CE1-4686-A925-E6587C98825D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E44DF80-4CE1-4686-A925-E6587C98825D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E44DF80-4CE1-4686-A925-E6587C98825D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
